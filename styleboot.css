@@ -1,0 +1,21 @@
+    .links {
+        color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: xx-large;
+    }
+    
+    .grayNav {
+        background-color: rgb(197, 197, 197);
+    }
+    
+    .grayNavtwo {
+        background-color: gray;
+        width: 1200px;
+        margin-top: 40px;
+        margin-left: 40px;
+    }
+    
+    .height {
+        height: 700px;
+        width: 700px;
+    }
